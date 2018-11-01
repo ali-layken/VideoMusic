@@ -3,7 +3,7 @@ A python script that turns Music Videos into Video Musics
 
 ## Requirements
   - ffmpeg
-  - ffmprobe
+  - ffprobe
   - Python 3
     - NumPy
     - OpenCV 3
