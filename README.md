@@ -11,7 +11,7 @@ A python script that turns Music Videos into Video Musics
   
 ## Usage
 
-```python3 Vision.py [video url] [filename (this can be whatever)]```
+  ```python3 Vision.py [video url] [filename (this can be whatever)]```
 
 ## Demo
 https://vimeo.com/295290523
