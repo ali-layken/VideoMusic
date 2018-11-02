@@ -11,6 +11,7 @@ A python script that turns Music Videos into Video Musics
   
 ## Usage
  Open folder containing Vision.py in terminal and run this:
+ 
  ```python3 Vision.py [video url] [filename (this can be whatever)]```
 
 ## Demo
