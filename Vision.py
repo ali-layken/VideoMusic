@@ -123,9 +123,9 @@ def main():
         i=j
 
     #3 Break up into 3 audio ranges:
-    b = int(round(len(audio[0])/3))
-    m = int(round(len(audio[0])*2/3))
-    t = int(len(audio[0]))
+    b = 250
+    m = 750
+    t = 2500
 
     bass = [x for ff in audio for x in ff[0:b]]
     mid = [x for ff in audio for x in ff[b:m]]
