@@ -6,7 +6,7 @@ A python script that turns Music Videos into Video Musics
   - [ffprobe](https://ffmpeg.org/download.html) 
   - [Python 3](https://www.python.org/downloads/)
     - NumPy (```pip3 install numpy```)
-    - OpenCV 3 ([Instructions] https://pypi.org/project/opencv-python/))
+    - OpenCV 3 [Instructions] https://pypi.org/project/opencv-python/)
     - Soundfile (```pip3 install soundfile```)
   
 ## Usage
